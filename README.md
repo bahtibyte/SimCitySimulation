@@ -21,7 +21,7 @@ The ratings are compounded over time which means results fluctuate in the early 
 
 
 ## Background
-This is the background I spent about 13 hours putting together using Icograms. Each section is meant to take on a new theme revolving around NYC and Long Island. Starting with top right corner, that is Stony Brook seperated by forests to mimic it being far away from closest suburb. Next up, bottom right is Jones Beach. Right above it is Queens with resedential buildings. At the very left, the skyscrapers is Manhattan. Each of these locations produce customers that gets spawned and travels to its closest neighbor.
+This is the background I spent about 13 hours putting together using Icograms. Every single icon in this picture is individualy placed. Each section is meant to take on a new theme revolving around NYC and Long Island. Starting with top right corner, that is Stony Brook seperated by forests to mimic it being far away from closest suburb. Next up, bottom right is Jones Beach. Right above it is Queens with resedential buildings. At the very left, the skyscrapers is Manhattan. Each of these locations produce customers that gets spawned and travels to its closest neighbor.
 ![image](https://user-images.githubusercontent.com/32024479/155900697-b3ac208a-c962-405d-a841-b308ca367438.png)
 
 
