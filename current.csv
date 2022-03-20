@@ -1,4 +1,4 @@
-Customer_ID,Preference Rate Towards Company_X,Rating Given,Company Chosen,Starting Location,Ending Location,Started Time,Ending Time,Unavailable Scooter,Breakdown,Breakdown Time
+Customer_ID,Blue's Rating,Rating Given,Company Chosen,Starting Location,Ending Location,Started Time,Ending Time,Unavailable Scooter,Breakdown,Breakdown Time
 5,0.5,1,1,Queens,Stony,6,49,FALSE,TRUE,11
 6,0.5,3,1,Manhattan,Jones,8,64,FALSE,TRUE,26
 9,0.4995005,3,1,Manhattan,Jones,13,59,FALSE,TRUE,30
